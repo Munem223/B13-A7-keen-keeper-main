@@ -6,24 +6,24 @@ KeenKeeper is a simple web app to help you keep track of your friendships. You c
 
 Features
 
-View all your friends in a clean card layout
-Track contact status (overdue, almost due, on-track)
-See detailed friend profiles
-Log interactions (Call, Text, Video)
-Timeline to view past interactions
-Filter timeline by interaction type
-Pie chart showing communication stats
-Toast notifications for actions
-404 page for invalid routes(ADD FRIEND page to 404)
+View all your friends in a clean card layout..
+Track contact status (overdue, almost due, on-track)..
+See detailed friend profiles..
+Log interactions (Call, Text, Video)..
+Timeline to view past interactions..
+Filter timeline by interaction type..
+Pie chart showing communication stats..
+Toast notifications for actions..
+404 page for invalid routes(ADD FRIEND page to 404)..
 
 
 Tech Used
 
-React
-React Router DOM
-Tailwind CSS
-Recharts
-Lucide React
+React..
+React Router DOM..
+Tailwind CSS..
+Recharts..
+Lucide React..
 
 
 Key Idea
